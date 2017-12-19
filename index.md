@@ -18,7 +18,7 @@ The player will have to decide where does he want to invest his/her money in ord
 
 But those won't be the only expenses he will see, money will be deducted all the time in order to pay for the water and the light of the Hair Dresser.
 
-(Ficar photo de hairdressers amb el idle mans a la cintura)
+[[https://imgur.com/hFd4hpr.png]]
 
 So what are you waiting for? Will your business be successful ? Will you go bankrupt? Find out in HAIr Dresser!
 
