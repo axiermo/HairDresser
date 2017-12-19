@@ -1,14 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/axiermo/HairDresser/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### About us
 
 ``` Markdown
 
-We are Asier Arellano and Sergi Parra, we are students from UPC. We had to make a game 
+We are Asier Arellano and Sergi Parra, we are students from UPC. We had to make a God game for out AI class. We choosed a hairdresser as the theme for our game.
 
 ```
 
@@ -16,7 +10,16 @@ We are Asier Arellano and Sergi Parra, we are students from UPC. We had to make 
 
 ``` Markdown
 
-We are students.
+In Hair Dresser you will have to manage your own succesful hair dresser!
+
+The game is divided in two cycles where the NPCs will act different in each of the unique game areas.
+The player will have to decide where does he want to invest his/her money in order to success. He can decide to buy more cleaning seats, more cutting seats adn/or hire more hairdressers and repairmans.
+
+But those won't be the only expenses he will see, money will be deducted all the time in order to pay for the water and the light of the Hair Dresser.
+
+So what are you waiting for? Will your business be successful ? Will you go bankrupt? Find out in HAIr Dresser!
+
+Have fun!
 
 ```
 
