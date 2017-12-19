@@ -1,14 +1,13 @@
 ### About us
 
-``` Markdown
+
 
 We are Asier Arellano and Sergi Parra, we are students from UPC. We had to make a God game for out AI class. We choosed a hairdresser as the theme for our game.
 
-```
 
 ### About The Game
 
-``` Markdown
+
 
 In Hair Dresser you will have to manage your own succesful hair dresser!
 
@@ -25,7 +24,6 @@ So what are you waiting for? Will your business be successful ? Will you go bank
 
 Have fun!
 
-```
 
 ### Trailer
 
